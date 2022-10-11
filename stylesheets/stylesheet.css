@@ -11,3 +11,11 @@ h2 + p {
     list-style-type: none;
 }
 
+li a:hover{
+    color: pink;
+
+}
+
+li a:visited{
+    color: red;
+}
