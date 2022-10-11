@@ -30,3 +30,15 @@ li:first-child::first-letter{
 a[href="https://bcit.ca"] {
     background-color: yellow;
 }
+
+.special {
+    color: green;
+}
+
+img{
+    float:left;
+}
+
+.below{
+    clear:left;
+}
